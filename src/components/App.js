@@ -1,6 +1,6 @@
 import React from "react";
 import HomePage from "./HomePage";
-import AboutPage from "./AbougPage";
+import AboutPage from "./AboutPage";
 import Header from "../common/Header"
 
 function App() {
